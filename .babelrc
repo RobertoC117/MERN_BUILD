@@ -1,0 +1,3 @@
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react"]//Indicas que debe traducir toda la sintaxis moderna de js y JSX que es react
+}
